@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,iBAAkB;EACd,MAAM,EAAE,GAAG;EACX,gBAAgB,EAAE,OAAO;EACzB,gCAAc;IACV,KAAK,EAAE,KAAK;IACZ,eAAe,EAAE,IAAI;;ACH7B,eAAgB;EACZ,MAAM,EAAE,GAAG;EACX,KAAK,EAAE,GAAG;;AAGd,aAAa;EACZ,WAAW,ECVU,wBAAwB;EDW9C,SAAS,ECVW,IAAI",
+"sources": ["../sass/_components.scss","../sass/influencers.scss","../sass/_fonts.scss"],
+"names": [],
+"file": "influencers.css"
+}
